@@ -1,6 +1,6 @@
 # learn_github
 ## 本機
-* 設定帳戶，讓 Git 知道這台電腦做的修改要連結到哪一個使用者
+* 設定帳戶，讓 Git 知道這台電腦做的修改要連結到哪一個使用者 (設定一次即可)
 ```  
   $ git config --global user.name "Your Name"
   $ git config --global user.email "Email"
